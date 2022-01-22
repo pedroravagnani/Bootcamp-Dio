@@ -1,6 +1,6 @@
-Notas e comandos para lembrar no GIT
+# Notas e comandos para lembrar no GIT
 
-![[Pasted image 20220119170448.png]]
+![](Pasted image 20220119170448.png)
 - git init
 - git status
 - git add
