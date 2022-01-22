@@ -4,7 +4,7 @@ Contém todos as anotações, links, e outros relacionados ao Bootcamp de desenv
 
 ##### Links
 
-[Algoritimos](Obsidian/Algoritmo.md.md)
+[Algoritimos](Obsidian/Algoritmo.md)
 
 [Estrutura de Dados](Obsidian/Estrutura%20de%20Dados.md)
 
