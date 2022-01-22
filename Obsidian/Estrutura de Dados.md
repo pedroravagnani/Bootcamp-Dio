@@ -17,6 +17,7 @@ Existem dois tipos de listas:
 ###### #Ligadas
 
 Na estrutura do tipo lista existem os nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior aléem de conhecer o elemento posterior a ele: por isso ela é chamada de "lista ligada", pois os nós são amarrados com essa indicação de qual é o proximo nó.
+
 ![](Pasted%20image%2020220114121623.png)
 ![](Pasted%20image%2020220114124726.png)
 
